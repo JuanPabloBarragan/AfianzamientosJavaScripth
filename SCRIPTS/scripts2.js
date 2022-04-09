@@ -244,7 +244,7 @@ jQuery('document').ready(function($){
 			var Sn = (48*Shora)+(Ex*Sx);
 		}
 
-        alert("Nombre: " + Name);
+        alert("Nombre: " + nombre);
 		alert("Salario: " + Sn);
       });
 
